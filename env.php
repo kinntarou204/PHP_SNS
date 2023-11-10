@@ -40,3 +40,4 @@ require_once CONTROLLER_DIR . 'TweetController.php';
 require_once CONTROLLER_DIR . 'UserController.php';
 require_once CONTROLLER_DIR . 'LoginController.php';
 require_once CONTROLLER_DIR . 'RegistController.php';
+
